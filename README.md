@@ -2,7 +2,8 @@
 
 I build tools that make technology more accessible and empower others in their projects and goals.
 I focus on projects where I am able to interview real users so I can ensure the hardware meets software to solve their real user problems.
-My coolest Projects are Agriculture Robots ML Control, an Automatic CGM Diabetes Test Rig, and HyphaTracker! Have a look in my pins :)
+
+**My coolest projects are Agriculture Robots ML Control, an Automatic CGM Diabetes Test Rig, and HyphaTracker! Have a look in my pins :)**
 
 ---
 
